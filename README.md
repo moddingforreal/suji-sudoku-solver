@@ -6,4 +6,4 @@ A fork of @congory's simple sudoku solver made in 2008
 Revised & updated to 2021
 
 Technologies:
-- Java 8 & JavaFX
+- Java 13 & JavaFX
